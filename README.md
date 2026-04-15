@@ -1,5 +1,5 @@
 # Data-Analysis-Portfolio
-## 🇬🇧 EN
+## 🇺🇸 EN
 
 Hi, I'm Ian!
 
@@ -18,7 +18,7 @@ This repository showcases my projects, technical skills, and ongoing progress in
 
 --------------------------------------------------
 
-## 🇪🇸 ES
+## 🇨🇷 ES
 
 ¡Hola! Soy Ian.
 
@@ -33,3 +33,15 @@ Me interesa especialmente aplicar el análisis de datos y métodos estadísticos
 Ya sea trabajando de forma independiente o en equipo, me motiva la curiosidad, la precisión y el reto de transformar datos en conocimiento útil.
 
 Este repositorio presenta mis proyectos, habilidades técnicas y mi progreso continuo en el área de Ciencia y Análisis de Datos.
+
+--------------------------------------------------
+
+# 🇺🇸 Table of Contents
+
+
+
+# 🇨🇷 Tabla de Contenidos
+
+
+--------------------------------------------------
+
