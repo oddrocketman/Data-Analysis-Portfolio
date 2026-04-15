@@ -1,4 +1,4 @@
-# Data Analysis Portfolio
+# Ian Gutiérrez - Data Analyst Portfolio
 ## 🇺🇸 EN
 
 Hi, I'm Ian!
