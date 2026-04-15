@@ -17,13 +17,13 @@ This repository showcases my projects, technical skills, and ongoing progress in
 
 --------------------------------------------------
 
-# 🇺🇸 Table of Contents
+## Table of Contents
 
 --------------------------------------------------
-# 🇺🇸 Portfolio Projects
-## Python
-## SQL
-## R
-## Excel/Google Sheets
-## Tableau
-## Power BI
+## Portfolio Projects
+### Python
+### SQL
+### R
+### Excel/Google Sheets
+### Tableau
+### Power BI
