@@ -1,5 +1,6 @@
 # Data-Analysis-Portfolio
 🇬🇧 EN
+
 Hi, I'm Ian!
 
 I am a Physics graduate from the University of Costa Rica with a strong analytical background and a growing focus on Data Analytics and Data Science. My training in physics has given me a rigorous approach to problem-solving, mathematical modeling, and working with complex datasets.
