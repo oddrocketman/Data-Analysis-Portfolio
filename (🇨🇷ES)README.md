@@ -23,11 +23,20 @@ Este repositorio presenta mis proyectos, habilidades técnicas y mi progreso con
 --------------------------------------------------
 
 ## Proyectos del Portfolio
+
 ### Python
+
 ### SQL
+
 ### R
+
 ### Excel/Google Sheets
+
 ### Tableau
+
+ Algunas de mis visualizaciones en Tableau Public aquí:  
+ [Ver mis dashboards en Tableau Public](https://public.tableau.com/app/profile/ian.guti.rrez/vizzes)
+
 ### Power BI
 
 --------------------------------------------------
