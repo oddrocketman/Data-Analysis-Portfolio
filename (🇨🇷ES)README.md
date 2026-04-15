@@ -35,7 +35,7 @@ Este repositorio presenta mis proyectos, habilidades técnicas y mi progreso con
 ### Tableau
 
  Algunas de mis visualizaciones en Tableau Public aquí:  
- [Ver mis dashboards en Tableau Public](public.tableau.com/app/profile/oddrocketman)
+ [Ver mis dashboards en Tableau Public](public.tableau.com/app/profile/oddrocketman/vizzes)
 
 ### Power BI
 
