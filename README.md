@@ -1,5 +1,5 @@
 # Data-Analysis-Portfolio
-##🇬🇧 EN
+## 🇬🇧 EN
 
 Hi, I'm Ian!
 
@@ -18,7 +18,7 @@ This repository showcases my projects, technical skills, and ongoing progress in
 
 --------------------------------------------------
 
-##🇪🇸 ES
+## 🇪🇸 ES
 
 ¡Hola! Soy Ian.
 
