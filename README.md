@@ -1,10 +1,8 @@
 # 🌐 Portfolio | Portafolio
 
-Welcome! / ¡Bienvenido!
+Welcome! Please choose your preferred language:
 
-Please choose your preferred language:
-
-Por favor, elige tu idioma:
+¡Bienvenido! Por favor, elige tu idioma:
 
 ---
 
