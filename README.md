@@ -44,4 +44,10 @@ Este repositorio presenta mis proyectos, habilidades técnicas y mi progreso con
 
 
 --------------------------------------------------
-
+# 🇺🇸 Portfolio Projects ||| 🇨🇷 Proyectos del Portfolio
+## Python
+## SQL
+## R
+## Excel/Google Sheets
+## Tableau
+## Power BI
