@@ -21,6 +21,7 @@ Este repositorio presenta mis proyectos, habilidades técnicas y mi progreso con
 
 
 --------------------------------------------------
+
 ## Proyectos del Portfolio
 ### Python
 ### SQL
@@ -28,3 +29,11 @@ Este repositorio presenta mis proyectos, habilidades técnicas y mi progreso con
 ### Excel/Google Sheets
 ### Tableau
 ### Power BI
+
+--------------------------------------------------
+
+## Certificados
+
+--------------------------------------------------
+
+## Contacto
