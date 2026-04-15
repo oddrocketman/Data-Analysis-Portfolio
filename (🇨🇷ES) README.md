@@ -1,3 +1,4 @@
+#Portfolio de Análisis de Datos
 ## 🇨🇷 ES
 
 ¡Hola! Soy Ian.
@@ -16,14 +17,14 @@ Este repositorio presenta mis proyectos, habilidades técnicas y mi progreso con
 
 --------------------------------------------------
 
-# Tabla de Contenidos
+## Tabla de Contenidos
 
 
 --------------------------------------------------
-# Proyectos del Portfolio
-## Python
-## SQL
-## R
-## Excel/Google Sheets
-## Tableau
-## Power BI
+## Proyectos del Portfolio
+### Python
+### SQL
+### R
+### Excel/Google Sheets
+### Tableau
+### Power BI
